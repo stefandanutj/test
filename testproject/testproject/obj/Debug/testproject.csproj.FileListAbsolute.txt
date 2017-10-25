@@ -1,0 +1,5 @@
+c:\users\stefan.jora\documents\visual studio 2017\Projects\testproject\testproject\bin\Debug\testproject.exe.config
+c:\users\stefan.jora\documents\visual studio 2017\Projects\testproject\testproject\bin\Debug\testproject.exe
+c:\users\stefan.jora\documents\visual studio 2017\Projects\testproject\testproject\bin\Debug\testproject.pdb
+c:\users\stefan.jora\documents\visual studio 2017\Projects\testproject\testproject\obj\Debug\testproject.exe
+c:\users\stefan.jora\documents\visual studio 2017\Projects\testproject\testproject\obj\Debug\testproject.pdb
